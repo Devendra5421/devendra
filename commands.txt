@@ -1,0 +1,89 @@
+    1  touch file2
+    2  git init
+    3  git commit -m "first commit"
+    4  touch deva
+    5  git init
+    6  git add *
+    7  git status
+    8  git commit -m "first commit"
+    9  git config --global user.name "Devendra5421"
+   10  git config --list
+   11  touch devendra
+   12  git init
+   13  git add *
+   14  git init
+   15  ls -al
+   16  ls .git
+   17  touch file1
+   18  git status
+   19  git add file1
+   20  git status
+   21  git commit -m "file1"
+   22  git commit -m "file!"
+   23  git commit -m "file1"
+   24  git add deva
+   25  git add file1
+   26  git status
+   27  git add file1
+   28  git status
+   29  git commit -m "file!"
+   30  git config --global user.email "chattadevendra9@gmail.com"
+   31  git config --local user.name "Devendra5421"
+   32  git config --list
+   33  git commit -m "file1"
+   34  git status
+   35  git add *
+   36  git commit -m "file1"
+   37  git log
+   38  ls -al
+   39  touch siva
+   40  git init
+   41  git add
+   42  git add *
+   43  git commit -m "first commit"
+   44  git branch -M main
+   45  git remote add origin https://github.com/Devendra5421/demo.git
+   46  touch file2
+   47  git init
+   48  git add
+   49  git add *
+   50  git commit -m "first commit"
+   51  git branch -M main
+   52  git remote add origin https://github.com/Devendra5421/demo.git
+   53  git remote remove origin
+   54  git init
+   55  touch indra
+   56  git add *
+   57  git status
+   58  git commit -m "first commit"
+   59  git branch -M main
+   60  git remote add origin https://github.com/Devendra5421/deva.git
+   61  git push -u origin main
+   62  git init
+   63  git status
+   64  git status
+   65  git status
+   66  git status
+   67  touch README.md
+   68  git status
+   69  ls
+   70  ls al
+   71  git status
+   72  git add *
+   73  git status
+   74  git checkout -b Devendra
+   75  git commit -m "Devendrafiles"
+   76  git remote add origin https://github.com/Devendra5421/devendra.git
+   77  git remote remove origin
+   78  git remote add origin https://github.com/Devendra5421/devendra.git
+   79  git push -u origin Devendra
+   80  git checkout -b main
+   81  git checkout -b deva
+   82  git branch
+   83  git status
+   84  history
+   85  ls -al
+   86  git checkout Devendra
+   87  git --version
+   88  ll
+   89  history > commands.txt
